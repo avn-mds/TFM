@@ -1,0 +1,449 @@
+---------------
+root@10.112.14.[4,7,12-13],root@10.112.13.6 (5)
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.1
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WDC WD2003FZEX-0
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.10
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WDC WD2003FZEX-0
+sdi   disk  1,8T WD2004FBYZ-23YC 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.11
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T ST2000NM0011    
+---------------
+root@10.112.13.12
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WDC WD2003FZEX-0
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.13
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2004FBYZ-23YC 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T HUA723020ALA640 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2004FBYZ-23YC 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.14
+---------------
+sda   disk  1,8T WDC WD2003FZEX-0
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T MG04ACA200N     
+sde   disk  1,8T WDC WD2003FZEX-0
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2004FBYZ-23YC 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.15
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T MG04ACA200N     
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T ST2000NM0011    
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.16
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T ST2000NM0011    
+sdi   disk  1,8T ST2000NM0055    
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.17
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T MG04ACA200N     
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.2
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WDC WD2003FZEX-0
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WDC WD2003FZEX-0
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.3
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WDC WD2003FZEX-0
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WDC WD2003FZEX-0
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.4
+---------------
+sda   disk  1,8T WDC WD2003FZEX-0
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WDC WD2003FZEX-0
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.5
+---------------
+sda   disk  1,8T ST2000NM0055    
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2003FYYS-23W0B
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.7
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WDC WD2003FZEX-0
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2004FBYZ-23YC 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.8
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T ST2000NM0011    
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T ST2000NM0011    
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.13.9
+---------------
+sda   disk  1,8T WDC WD2003FZEX-0
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WDC WD2003FZEX-0
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.1
+---------------
+sda   disk  1,8T WD2004FBYZ-23YC 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T ST2000NM0011    
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T MG04ACA200N     
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.10
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WDC WD2003FZEX-0
+sde   disk  1,8T MG04ACA200N     
+sdf   disk  1,8T MG04ACA200N     
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.11
+---------------
+sda   disk  1,8T WDC WD2003FZEX-0
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.14
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WDC WD2003FZEX-0
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.15
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WDC WD2003FZEX-0
+---------------
+root@10.112.14.16
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T ST2000NM0011    
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T MG04ACA200N     
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.17
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T ST2000NM0011    
+sdd   disk  1,8T ST2000NM0033    
+sde   disk  1,8T ST2000NM0033    
+sdf   disk  1,8T ST2000NM0033    
+sdg   disk  1,8T ST2000NM0033    
+sdj   disk  1,8T MG04ACA200N     
+sdk   disk  1,8T MG04ACA200N     
+sdl   disk  1,8T MG04ACA200N     
+sdm   disk  1,8T MG04ACA200N     
+---------------
+root@10.112.14.2
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WDC WD2003FZEX-0
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.3
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T MG04ACA200N     
+---------------
+root@10.112.14.5
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WDC WD2003FZEX-0
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WDC WD2003FZEX-0
+sdh   disk  1,8T WDC WD2003FZEX-0
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.6
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T MG04ACA200N     
+sdi   disk  1,8T WDC WD2003FZEX-0
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WDC WD2003FZEX-0
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.8
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T WD2000FYYZ-23UL 
+sdc   disk  1,8T WDC WD2003FZEX-0
+sdd   disk  1,8T WD2000FYYZ-23UL 
+sde   disk  1,8T WD2000FYYZ-23UL 
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WDC WD2003FZEX-0
+sdl   disk  1,8T WD2000FYYZ-23UL 
+---------------
+root@10.112.14.9
+---------------
+sda   disk  1,8T WD2000FYYZ-23UL 
+sdb   disk  1,8T MG04ACA200N     
+sdc   disk  1,8T WD2000FYYZ-23UL 
+sdd   disk  1,8T WD2004FBYZ-23YC 
+sde   disk  1,8T MG04ACA200N     
+sdf   disk  1,8T WD2000FYYZ-23UL 
+sdg   disk  1,8T WD2000FYYZ-23UL 
+sdh   disk  1,8T WD2000FYYZ-23UL 
+sdi   disk  1,8T WD2000FYYZ-23UL 
+sdj   disk  1,8T WD2000FYYZ-23UL 
+sdk   disk  1,8T WD2000FYYZ-23UL 
+sdl   disk  1,8T WD2000FYYZ-23UL 
